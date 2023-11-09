@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define ARRAY_LEN 200000000
+#define ARRAY_LEN 2000
 #define RAND_LIMIT 76
 
 int main(){
